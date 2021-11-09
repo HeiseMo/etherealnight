@@ -30,7 +30,7 @@ body {
     border-radius: 50%;
     background-image: url(images/eth.png);
     background-size: 420px;
-    animation: glow 2s infinite alternate;
+    animation: glow 1.4s infinite alternate;
     margin-top: 5vh;
 }
 
@@ -52,7 +52,6 @@ body {
         0 0 50px #fff,
         -50px 0 100px #0ff,
         50px 0 100px #f0f;
-        transform: translateX(90);
     }
   }
 .links {
